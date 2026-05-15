@@ -12,8 +12,7 @@ This project focuses on analyzing pizza sales data to uncover business insights 
 * Tools & Libraries: Python, Pandas, NumPy, Matplotlib, Seaborn
 * Jupyter Notebook: End-to-end analytical workflow and reporting
 
-##My Learning
-
+## My Learning
 This project involved performing an end-to-end sales analysis on pizza order data to derive actionable business insights and improve understanding of sales performance trends. The analysis began with Exploratory Data Analysis (EDA), which included data cleaning, validation of data quality, handling missing values, and understanding the structure and distribution of the dataset.
 
 The project explored key business metrics such as total revenue, order volume, pizza category performance, pizza size preferences, and sales trends across different time periods. Date and time-based analysis was performed to identify peak ordering hours, busiest days, and seasonal purchasing patterns. The analysis also evaluated the contribution of different pizza categories and sizes to overall revenue generation.
